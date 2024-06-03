@@ -27,3 +27,4 @@ O proposito deste sistema é facilitar a vida tanto dos administradores quanto d
 # <p align=center>Arquitetura de Software - AWS</p>
 
 <img src="C:\Users\Vitor\Downloads" alt="Diagrama de Contexto">
+![DiagramaContexto](https://github.com/VitorHervella/C4Model/assets/36939208/f090dd87-a7bf-4959-a090-f6c8f39f9228)
