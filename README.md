@@ -1,5 +1,5 @@
 # <p align=center>Sistema de Academia</p>
-👐 Integrantes
+# 👐 Integrantes
 
 Vitor Siedschlag Hervella
 
