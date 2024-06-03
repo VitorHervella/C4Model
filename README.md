@@ -36,3 +36,4 @@ O proposito deste sistema é facilitar a vida tanto dos administradores quanto d
 ![DiagramaCodigo](https://github.com/VitorHervella/C4Model/assets/36939208/963fcc02-103c-427b-a1db-2e2bb3a5b109)
 
 ## 📐 Padrões de Projeto
+![PadroesProjetoC4](https://github.com/VitorHervella/C4Model/assets/36939208/4bf8eba5-c2ba-478f-b8fd-b9ef031ce3a4)
