@@ -37,3 +37,13 @@ O proposito deste sistema é facilitar a vida tanto dos administradores quanto d
 
 ## 📐 Padrões de Projeto
 ![PadroesProjetoC4](https://github.com/VitorHervella/C4Model/assets/36939208/4bf8eba5-c2ba-478f-b8fd-b9ef031ce3a4)
+
+## 🔨 Padrão Arquitetural 
+### Camadas
+![Camadas](https://github.com/VitorHervella/C4Model/assets/36939208/713f562d-89fb-4857-a63f-48264d9fe6b0)
+### MVC
+![MVC](https://github.com/VitorHervella/C4Model/assets/36939208/de479ca8-d7b2-4f51-964c-b36278f9f2e9)
+### Clean Arquitetura
+![CleanArquitetural](https://github.com/VitorHervella/C4Model/assets/36939208/8667a859-00f9-45f5-bdf6-256723e897d0)
+
+
