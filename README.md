@@ -6,7 +6,7 @@ Vitor Siedschlag Hervella
 Luan da Costa Silva
 
 # 💻 Sobre
-O proposito deste sistema é facilitar a vida tanto dos administradores quanto dos alunos, para simplificar a gestão das atividades da academia, desde o cadastro de alunos até o acompanhamento do progresso físico. Para os administradores, ferramentas para gerenciar alunos, agendar aulas, controlar o acesso e administrar as finanças. Para os alunos, permissão para que reservem aulas, acompanhem seu progresso e se comuniquem com os instrutores. Meu objetivo é tornar a experiência na academia mais eficiente, motivadora e gratificante para todos os envolvidos.
+O proposito deste sistema é facilitar a vida tanto dos administradores quanto dos alunos, para simplificar a gestão das atividades da academia, desde o cadastro de alunos até o acompanhamento do progresso físico. Para os administradores, ferramentas para gerenciar alunos, agendar aulas, controlar o acesso e administrar as finanças. Para os alunos, permissão para que reservem aulas, acompanhem seu progresso e se comuniquem com os instrutores. O objetivo é tornar a experiência na academia mais eficiente, motivadora e gratificante para todos os envolvidos.
 
 # ⚙️ Ferramentas e Tecnologias utilizadas:
 - [x] GitHub
