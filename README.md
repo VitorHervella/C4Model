@@ -21,3 +21,5 @@ O proposito deste sistema é facilitar a vida tanto dos administradores quanto d
 - [x] Padrão Arquitetural - *Camadas*, *MVC*, *Clean arquitetura*
 
 - [x] C4Model
+
+- [ ] Persitencia de Dados
