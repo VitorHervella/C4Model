@@ -41,12 +41,15 @@ O proposito deste sistema é facilitar a vida tanto dos administradores quanto d
 ## 🔨 Padrão Arquitetural 
 ### Camadas
 ![Camadas](https://github.com/VitorHervella/C4Model/assets/36939208/713f562d-89fb-4857-a63f-48264d9fe6b0)
+
 *Camadas:* As principais camadas são Interface do Usuário (UI), Aplicação, Domínio e Infraestrutura. A UI contém controladores que interagem com os casos de uso na camada de aplicação. Os casos de uso operam no domínio, acessando entidades, repositórios e serviços. A infraestrutura fornece implementações concretas para o banco de dados, APIs externas e outros frameworks.
 ### MVC
 ![MVC](https://github.com/VitorHervella/C4Model/assets/36939208/de479ca8-d7b2-4f51-964c-b36278f9f2e9)
+
 *MVC:* O padrão Model-View-Controller separa a aplicação em três componentes principais. O modelo (Model) inclui as entidades, repositórios e serviços que representam a lógica de negócios. A visualização (View) inclui a interface do usuário (UI). O controlador (Controller) lida com as interações do usuário, manipulando as solicitações e atualizando o modelo conforme necessário.
 ### Clean Arquitetura
 ![CleanArquitetural](https://github.com/VitorHervella/C4Model/assets/36939208/8667a859-00f9-45f5-bdf6-256723e897d0)
+
 *Clean Architecture:* Esta arquitetura enfatiza a separação de preocupações e a independência das camadas internas. As entidades representam objetos de negócios, os casos de uso contêm a lógica de negócios, as interfaces incluem os controladores e a UI, e o framework & drivers contêm implementações de infraestrutura.
 
 
