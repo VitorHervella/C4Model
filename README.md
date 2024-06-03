@@ -16,8 +16,8 @@ O proposito deste sistema é facilitar a vida tanto dos administradores quanto d
 - [x] Draw.io
 
 # 📚 Conceitos utilizados
-Design Patterns - *Singleton*, *Strategy*
+- [x]Design Patterns - *Singleton*, *Strategy*
 
-Padrão Arquitetural - *Camadas*, *MVC*, *Clean arquitetura*
+- [x]Padrão Arquitetural - *Camadas*, *MVC*, *Clean arquitetura*
 
-C4Model
+- [x]C4Model
