@@ -38,6 +38,10 @@ O proposito deste sistema é facilitar a vida tanto dos administradores quanto d
 ## 📐 Padrões de Projeto
 ![PadroesProjetoC4](https://github.com/VitorHervella/C4Model/assets/36939208/4bf8eba5-c2ba-478f-b8fd-b9ef031ce3a4)
 
+*Padrão Singleton:* Aqui, temos as classes Database e Logger, ambas implementadas como singletons. Isso significa que elas têm uma única instância em toda a execução do programa. A classe Database é responsável pela interação com o banco de dados, enquanto a classe Logger é responsável pelo registro de mensagens. Ambas garantem que apenas uma instância exista e podem ser acessadas globalmente.
+
+*Padrão Strategy:* Este padrão é utilizado para representar diferentes estratégias de treino para os alunos. A interface TreinoStrategy define um método executarTreino(), que é implementado pelas classes TreinoIniciante e TreinoAvancado. A classe Aluno possui um atributo treinoStrategy que é definido com uma das estratégias e pode realizar o treino chamando o método realizarTreino(). Isso permite que diferentes tipos de treino sejam facilmente alternados e adicionados ao sistema.
+
 ## 🔨 Padrão Arquitetural 
 ### Camadas
 ![Camadas](https://github.com/VitorHervella/C4Model/assets/36939208/713f562d-89fb-4857-a63f-48264d9fe6b0)
@@ -51,5 +55,8 @@ O proposito deste sistema é facilitar a vida tanto dos administradores quanto d
 ![CleanArquitetural](https://github.com/VitorHervella/C4Model/assets/36939208/8667a859-00f9-45f5-bdf6-256723e897d0)
 
 *Clean Architecture:* Esta arquitetura enfatiza a separação de preocupações e a independência das camadas internas. As entidades representam objetos de negócios, os casos de uso contêm a lógica de negócios, as interfaces incluem os controladores e a UI, e o framework & drivers contêm implementações de infraestrutura.
+
+#
+# <p align=center>👏 Obrigado!</p>
 
 
