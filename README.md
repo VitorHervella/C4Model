@@ -22,7 +22,7 @@ O proposito deste sistema é facilitar a vida tanto dos administradores quanto d
 
 - [x] C4Model
 
-- [ ] Persitencia de Dados
+- [x] Persitencia de Dados
 
 # <p align=center>Arquitetura de Software - AWS</p>
 ## 🗺️ Diagramas C4 Model
@@ -33,7 +33,8 @@ O proposito deste sistema é facilitar a vida tanto dos administradores quanto d
 ### Diagrama de Componentes
 ![DiagramaComponente](https://github.com/VitorHervella/C4Model/assets/36939208/704fddab-05bd-4105-b172-88cdf71a61f8)
 ### Diagrama de Código
-![DiagramaCodigo](https://github.com/VitorHervella/C4Model/assets/36939208/963fcc02-103c-427b-a1db-2e2bb3a5b109)
+![DiagramaCodigo](https://github.com/VitorHervella/C4Model/assets/36939208/03181e1c-18f0-4c8c-be19-e1d95a653c44)
+
 
 ## 📐 Padrões de Projeto
 ![PadroesProjetoC4](https://github.com/VitorHervella/C4Model/assets/36939208/4bf8eba5-c2ba-478f-b8fd-b9ef031ce3a4)
